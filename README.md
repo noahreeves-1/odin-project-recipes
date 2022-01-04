@@ -7,3 +7,4 @@ The website will consist of a main index page which will have links to a few rec
 won't look very pretty by the time you've finished.
 
 The focus will mainly be on HTML and maybe some basic CSS.
+
